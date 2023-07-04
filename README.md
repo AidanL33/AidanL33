@@ -41,4 +41,4 @@
 <!--## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AidanL33&theme=tokyonight-frame=false&no-bg=false&margin-w=4)-->
 
-![Snake animation](https://github.com/thepiyushmalhotra/AidanL33/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/thepiyushmalhotra/AidanL33/blob/output/github-contribution-grid-snake.svg)-->
