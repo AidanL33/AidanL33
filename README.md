@@ -1,7 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=text=Hey Everyone!🕹️&animation&fontSize=90" />
-<!--   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/> -->
-</p>
+<!--<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=text=Hey Everyone!🕹️&animation&fontSize=90" />      <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>-->
 
 <h1 align="center">
   Where you can find me!💬
