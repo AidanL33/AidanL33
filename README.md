@@ -41,6 +41,6 @@
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidanL33 icons=true&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AidanL33&theme=shadow_red&show_icons=true)
 
 ![Snake animation](https://github.com/thepiyushmalhotra/AidanL33/blob/output/github-contribution-grid-snake.svg)
