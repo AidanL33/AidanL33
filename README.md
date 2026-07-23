@@ -25,10 +25,41 @@
   <img src= "https://media.giphy.com/media/WkeXjFoubG449UdbGh/giphy.gif">
 </p>
 
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=AidanL33&icon=5&color=6)](https://visitcount.itsvg.in)
+
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+```yaml
+name: Aidan Knowles
+located_in: Johannesburg, South Africa
+current_job: Front-end Developer
+education:
+  [
+    "Self-Taught Developer and Designer",
+  ]
+
+fields_of_interests:
+  [
+    "Web Development",
+    "Web Design",
+    "Data Science",
+    "Machine Learning",
+    "UI/UX",
+    "Game Development",
+  ]
+technical_background:
+  [
+    "Front-end Developer"
+    "UX/UI Designer",
+  ]
+  
+currently_learning: ["Python, C#, and Game Dev"]
+2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+hobbies: ["Gaming", "Hiking", "football fanatic", "padel"]
+```
+  
+---  
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
