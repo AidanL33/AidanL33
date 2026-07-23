@@ -33,10 +33,13 @@
 ```yaml
 name: Aidan Knowles
 located_in: Johannesburg, South Africa
-current_job: Front-end Developer
+current_job: Front-end Developer | UX/UI Designer
+
 education:
   [
     "Self-Taught Developer and Designer",
+    "Software Engineering Bootcamp - HyperionDev",
+    "Front-end Development - Brainnest"
   ]
 
 fields_of_interests:
@@ -55,7 +58,7 @@ technical_background:
   ]
   
 currently_learning: ["Python, C#, and Game Dev"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+2026 Goals: ["learn new tech stacks, add more projects to my github"]
 hobbies: ["Gaming", "Hiking", "football fanatic", "padel"]
 ```
   
