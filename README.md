@@ -57,7 +57,7 @@ technical_background:
     "UX/UI Designer",
   ]
   
-currently_learning: ["Python, C#, and Game Dev"]
+currently_learning: ["C#, and Game Dev"]
 2026 Goals: ["learn new tech stacks, add more projects to my github"]
 hobbies: ["Gaming", "Hiking", "football fanatic", "padel"]
 ```
