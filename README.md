@@ -1,8 +1,11 @@
-<h1 align="center">
+<!-- <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Aidan+Knowles!;&center=true&size=30">
   </a>
-</h1>
+</h1> -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 
 <h1 align="center">
   Where you can find me!💬
