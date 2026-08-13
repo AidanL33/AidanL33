@@ -17,9 +17,6 @@
   <a href="https://www.linkedin.com/in/aidan-knowles-295b0b21a/">
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
   </a>
-  <a href="https://www.instagram.com/aidanknowles_012/">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-  </a>
 </p>
 <p align="center">
   <img src= "https://media.giphy.com/media/WkeXjFoubG449UdbGh/giphy.gif">
